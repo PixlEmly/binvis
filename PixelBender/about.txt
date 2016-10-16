@@ -1,0 +1,1 @@
+PixelBender kernels to apply various effects/visualizations to binary's data
